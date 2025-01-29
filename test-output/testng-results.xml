@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="7" failed="5" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-29T19:23:20 IST" name="LT_TestNG" finished-at="2025-01-29T19:26:00 IST" duration-ms="160561">
+    <groups>
+    </groups>
+    <test started-at="2025-01-29T19:23:20 IST" name="TestNg Edge on macOS Ventura" finished-at="2025-01-29T19:25:05 IST" duration-ms="104794">
+      <class name="TestNgPKG.mac_Edge_TNg">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:23:20 IST" name="setUp" finished-at="2025-01-29T19:23:42 IST" duration-ms="22412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[127.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[macOS Ventura]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario1()[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:23:42 IST" name="Scenario1" finished-at="2025-01-29T19:23:47 IST" duration-ms="4205" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at TestNgPKG.mac_Edge_TNg.Scenario1(mac_Edge_TNg.java:75)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:47)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:76)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:11)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1575)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:23:47 IST" name="tearDown" finished-at="2025-01-29T19:23:47 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:23:47 IST" name="setUp" finished-at="2025-01-29T19:24:24 IST" duration-ms="37586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[127.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[macOS Ventura]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario2()[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:24:24 IST" name="Scenario2" finished-at="2025-01-29T19:24:28 IST" duration-ms="4064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:24:28 IST" name="tearDown" finished-at="2025-01-29T19:24:28 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:24:28 IST" name="setUp" finished-at="2025-01-29T19:25:00 IST" duration-ms="31776" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[127.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[macOS Ventura]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario3()[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:25:00 IST" name="Scenario3" finished-at="2025-01-29T19:25:05 IST" duration-ms="4255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.mac_Edge_TNg@4c178a76]" started-at="2025-01-29T19:25:05 IST" name="tearDown" finished-at="2025-01-29T19:25:05 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNgPKG.mac_Edge_TNg -->
+    </test> <!-- TestNg Edge on macOS Ventura -->
+    <test started-at="2025-01-29T19:23:20 IST" name="TestNg Chrome on Windows 10" finished-at="2025-01-29T19:25:19 IST" duration-ms="118914">
+      <class name="TestNgPKG.window_10_Chrome_TNg">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:23:20 IST" name="setUp" finished-at="2025-01-29T19:24:03 IST" duration-ms="43512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[128.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario1()[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:24:03 IST" name="Scenario1" finished-at="2025-01-29T19:24:07 IST" duration-ms="3676" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at TestNgPKG.window_10_Chrome_TNg.Scenario1(window_10_Chrome_TNg.java:78)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:47)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:76)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:11)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1575)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:24:07 IST" name="tearDown" finished-at="2025-01-29T19:24:07 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:24:07 IST" name="setUp" finished-at="2025-01-29T19:24:36 IST" duration-ms="28518" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[128.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario2()[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:24:36 IST" name="Scenario2" finished-at="2025-01-29T19:24:43 IST" duration-ms="7015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:24:43 IST" name="tearDown" finished-at="2025-01-29T19:24:43 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:24:43 IST" name="setUp" finished-at="2025-01-29T19:25:13 IST" duration-ms="29774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[128.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario3()[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:25:13 IST" name="Scenario3" finished-at="2025-01-29T19:25:18 IST" duration-ms="5702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.window_10_Chrome_TNg@411f53a0]" started-at="2025-01-29T19:25:18 IST" name="tearDown" finished-at="2025-01-29T19:25:19 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNgPKG.window_10_Chrome_TNg -->
+    </test> <!-- TestNg Chrome on Windows 10 -->
+    <test started-at="2025-01-29T19:23:20 IST" name="TestNg Internet Explorer on Windows 10" finished-at="2025-01-29T19:25:31 IST" duration-ms="131620">
+      <class name="TestNgPKG.windows_10_IE_TNg">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:23:20 IST" name="setUp" finished-at="2025-01-29T19:23:44 IST" duration-ms="24103" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario1()[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:23:44 IST" name="Scenario1" finished-at="2025-01-29T19:23:49 IST" duration-ms="5063" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at TestNgPKG.windows_10_IE_TNg.Scenario1(windows_10_IE_TNg.java:72)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:47)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:76)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:11)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1575)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:23:49 IST" name="tearDown" finished-at="2025-01-29T19:23:49 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:23:49 IST" name="setUp" finished-at="2025-01-29T19:24:37 IST" duration-ms="47673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario2()[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:24:37 IST" name="Scenario2" finished-at="2025-01-29T19:24:43 IST" duration-ms="6044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:24:43 IST" name="tearDown" finished-at="2025-01-29T19:24:43 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:24:43 IST" name="setUp" finished-at="2025-01-29T19:25:25 IST" duration-ms="42013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario3()[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:25:25 IST" name="Scenario3" finished-at="2025-01-29T19:25:31 IST" duration-ms="6317" status="FAIL">
+          <exception class="org.openqa.selenium.NoAlertPresentException">
+            <message>
+              <![CDATA[No alert is active
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [008358a6-948d-44e5-8cc9-85568f7fec63, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:41000/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, webdriver.remote.sessionid: 008358a6-948d-44e5-8cc9-855...}
+Session ID: 008358a6-948d-44e5-8cc9-85568f7fec63]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoAlertPresentException: No alert is active
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [008358a6-948d-44e5-8cc9-85568f7fec63, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:41000/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, webdriver.remote.sessionid: 008358a6-948d-44e5-8cc9-855...}
+Session ID: 008358a6-948d-44e5-8cc9-85568f7fec63
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:1194)
+at TestNgPKG.windows_10_IE_TNg.Scenario3(windows_10_IE_TNg.java:97)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:47)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:76)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:11)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1575)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoAlertPresentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.windows_10_IE_TNg@247bddad]" started-at="2025-01-29T19:25:31 IST" name="tearDown" finished-at="2025-01-29T19:25:31 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNgPKG.windows_10_IE_TNg -->
+    </test> <!-- TestNg Internet Explorer on Windows 10 -->
+    <test started-at="2025-01-29T19:23:20 IST" name="TestNg Firefox on Windows 11" finished-at="2025-01-29T19:26:00 IST" duration-ms="160561">
+      <class name="TestNgPKG.window_10_FFox_TNg">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:23:20 IST" name="setUp" finished-at="2025-01-29T19:24:10 IST" duration-ms="50389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[130]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario1()[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:24:10 IST" name="Scenario1" finished-at="2025-01-29T19:24:18 IST" duration-ms="7776" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Page Title is not as expected! expected [LambdaTest] but found [Selenium Grid Online | Run Selenium Test On Cloud]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at TestNgPKG.window_10_FFox_TNg.Scenario1(window_10_FFox_TNg.java:75)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:47)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:76)
+at org.testng.internal.invokers.InvokeMethodRunnable.call(InvokeMethodRunnable.java:11)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1575)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:24:18 IST" name="tearDown" finished-at="2025-01-29T19:24:21 IST" duration-ms="2448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:24:21 IST" name="setUp" finished-at="2025-01-29T19:24:56 IST" duration-ms="35933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[130]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario2()[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:24:56 IST" name="Scenario2" finished-at="2025-01-29T19:25:12 IST" duration-ms="15664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:25:12 IST" name="tearDown" finished-at="2025-01-29T19:25:14 IST" duration-ms="2112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:25:14 IST" name="setUp" finished-at="2025-01-29T19:25:42 IST" duration-ms="28105" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[130]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pankaj.khade1012]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J5StZCYr5nCJGQoqNJ6PEskJTQcN8SbCaePX1KyuVp7xmlfaOf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Scenario3()[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:25:42 IST" name="Scenario3" finished-at="2025-01-29T19:25:58 IST" duration-ms="15655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgPKG.window_10_FFox_TNg@77f1baf5]" started-at="2025-01-29T19:25:58 IST" name="tearDown" finished-at="2025-01-29T19:26:00 IST" duration-ms="2417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNgPKG.window_10_FFox_TNg -->
+    </test> <!-- TestNg Firefox on Windows 11 -->
+  </suite> <!-- LT_TestNG -->
+</testng-results>

@@ -1,0 +1,408 @@
+{"level":"info","time":"2025-01-29T19:23:26.352+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:23:26.359+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: bb79c21c-474e-4ca0-a1f3-ef3139a4e651"}
+{"level":"info","time":"2025-01-29T19:23:26.412+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:23:26.414+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 7bd58a0f-eb48-48d6-9128-9b1e4e312add"}
+{"level":"info","time":"2025-01-29T19:23:26.414+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:23:26.416+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 70c26060-e499-40b8-97de-3404e5c3eb3c"}
+{"level":"info","time":"2025-01-29T19:23:26.507+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:23:26.509+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 874cd0ce-2f98-48bd-aaa1-cd9406223bdf"}
+{"level":"info","time":"2025-01-29T19:23:27.172+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :9090"}
+{"level":"warn","time":"2025-01-29T19:23:27.268+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:23:27.270+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64575"}
+{"level":"warn","time":"2025-01-29T19:23:27.987+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:23:27.988+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64582"}
+{"level":"warn","time":"2025-01-29T19:23:28.023+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:23:28.024+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64588"}
+{"level":"info","time":"2025-01-29T19:23:29.663+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:23:29.696+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:23:30.054+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:23:30.054+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"error","time":"2025-01-29T19:23:31.844+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64551\": dial tcp 127.0.0.1:64551: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:23:35.888+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:23:35.888+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175688"}
+{"level":"info","time":"2025-01-29T19:23:36.042+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:23:36.042+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175689"}
+{"level":"info","time":"2025-01-29T19:23:36.213+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:23:36.213+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175691"}
+{"level":"info","time":"2025-01-29T19:23:36.238+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:23:36.238+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175692"}
+{"level":"info","time":"2025-01-29T19:23:52.518+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:23:52.520+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: b25bc9b9-8456-457b-bebd-b3bc223d76f7"}
+{"level":"warn","time":"2025-01-29T19:23:53.449+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:23:53.450+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64663"}
+{"level":"info","time":"2025-01-29T19:23:54.446+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:23:55.216+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:23:55.219+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 166a1632-af26-4687-b5f8-88878e787147"}
+{"level":"warn","time":"2025-01-29T19:23:56.215+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:23:56.216+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64682"}
+{"level":"info","time":"2025-01-29T19:23:58.068+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:23:58.068+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175694"}
+{"level":"info","time":"2025-01-29T19:23:58.122+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:24:01.097+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:24:01.098+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175696"}
+{"level":"info","time":"2025-01-29T19:24:13.192+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:24:13.193+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 916802bb-5454-4e54-b489-be1006f31d86"}
+{"level":"warn","time":"2025-01-29T19:24:13.910+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:24:13.911+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64719"}
+{"level":"info","time":"2025-01-29T19:24:14.936+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:24:17.997+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:24:17.997+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175698"}
+{"level":"info","time":"2025-01-29T19:24:26.346+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:24:26.347+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 80ef1ae4-71a0-41dc-86d8-8e92ac65c98c"}
+{"level":"warn","time":"2025-01-29T19:24:27.317+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:24:27.317+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64751"}
+{"level":"info","time":"2025-01-29T19:24:28.399+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:24:31.469+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:24:31.469+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175702"}
+{"level":"info","time":"2025-01-29T19:24:34.428+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:24:34.430+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: f9a6e182-c5ca-4928-9310-7490e42eaeaf"}
+{"level":"warn","time":"2025-01-29T19:24:35.241+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:24:35.243+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64777"}
+{"level":"info","time":"2025-01-29T19:24:36.161+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:24:39.462+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:24:39.462+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175704"}
+{"level":"info","time":"2025-01-29T19:24:48.921+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:24:48.923+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 2b2f01ed-6f95-4590-bb27-5848503e0b63"}
+{"level":"info","time":"2025-01-29T19:24:48.979+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:24:48.980+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: d5282426-49dc-464a-99e0-fd5f3cfc15a2"}
+{"level":"warn","time":"2025-01-29T19:24:49.914+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:24:49.914+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64818"}
+{"level":"warn","time":"2025-01-29T19:24:50.033+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:24:50.034+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64824"}
+{"level":"info","time":"2025-01-29T19:24:51.271+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:24:51.584+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:24:55.146+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:24:55.146+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175708"}
+{"level":"info","time":"2025-01-29T19:24:55.439+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:24:55.439+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175709"}
+{"level":"info","time":"2025-01-29T19:25:20.095+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.10"}
+{"level":"warn","time":"2025-01-29T19:25:20.096+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 28b7d449-d229-4966-9733-35a8e83bcb1c"}
+{"level":"warn","time":"2025-01-29T19:25:20.940+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2025-01-29T19:25:20.941+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64885"}
+{"level":"info","time":"2025-01-29T19:25:21.993+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:25:25.093+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:25:25.093+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4175715"}
+{"level":"error","time":"2025-01-29T19:59:10.506+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:10.507+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:10.508+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.510+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.510+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64600->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.510+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.510+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.510+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64666->13.126.37.58:443: i/o timeout "}
+{"level":"warn","time":"2025-01-29T19:59:10.511+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.512+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.512+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.515+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:10.515+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:10.515+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:10.515+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64596->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.516+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.517+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.517+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64887->13.126.37.58:443: i/o timeout "}
+{"level":"warn","time":"2025-01-29T19:59:10.518+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:10.518+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:10.518+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.518+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64753->13.126.37.58:443: i/o timeout "}
+{"level":"warn","time":"2025-01-29T19:59:10.519+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.519+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64688->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.519+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64780->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.519+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64828->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.520+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64830->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.535+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.535+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.535+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64594->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.557+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.557+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.557+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64601->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.532+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.561+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.561+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.0.181:64720->13.126.37.58:443: i/o timeout "}
+{"level":"error","time":"2025-01-29T19:59:10.872+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.872+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.872+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:10.875+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.875+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.875+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:10.879+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.879+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.879+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:10.879+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.879+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.879+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:10.885+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:10.885+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:10.885+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:11.266+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:11.266+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:11.266+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.266+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"warn","time":"2025-01-29T19:59:11.266+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.266+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:11.273+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:11.273+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.273+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:11.274+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:11.274+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.274+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:11.280+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:11.280+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.280+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:11.293+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:11.293+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.293+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:11.301+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:11.301+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.301+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:11.800+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:11.800+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:11.800+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.112+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.112+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.112+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.119+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.119+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.119+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.137+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.138+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.138+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.146+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.146+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.146+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.152+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.152+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.153+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.153+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.153+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.153+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.178+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.179+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.179+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.184+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.184+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.184+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.191+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.191+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.191+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.259+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.259+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.259+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:12.556+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:12.556+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:12.556+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:13.988+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:13.988+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:13.988+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.353+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:14.353+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.353+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:14.353+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.353+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.353+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.375+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.375+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.375+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.392+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.392+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.392+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.432+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.432+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.432+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.463+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.463+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.463+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.490+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.490+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.490+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.864+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.868+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.869+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.870+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.873+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.873+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.881+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.881+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.881+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:14.889+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:14.889+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:14.890+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:18.151+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:18.151+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:18.151+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:18.570+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:18.570+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:18.570+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:18.599+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:18.599+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:18.599+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.081+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.086+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:19.086+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:19.086+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"warn","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:19.598+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:26.040+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:26.040+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:26.040+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:26.042+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:26.042+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2025-01-29T19:59:26.497+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:26.497+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:26.497+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:26.497+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:26.497+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2025-01-29T19:59:26.619+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:26.619+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:26.619+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:26.619+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:26.619+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"info","time":"2025-01-29T19:59:26.660+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:26.661+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"error","time":"2025-01-29T19:59:26.937+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:26.937+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:26.937+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:26.937+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:26.937+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2025-01-29T19:59:26.966+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:26.966+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:26.967+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:26.967+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:26.967+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"info","time":"2025-01-29T19:59:27.134+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:27.134+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"error","time":"2025-01-29T19:59:27.314+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:27.314+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:27.314+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:27.314+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:27.314+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2025-01-29T19:59:27.424+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:27.424+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:27.424+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:27.424+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:27.424+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2025-01-29T19:59:27.466+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:27.466+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:27.466+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:27.466+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:27.466+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2025-01-29T19:59:27.477+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:27.477+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:27.477+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:27.478+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:27.478+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"info","time":"2025-01-29T19:59:27.558+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:27.558+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:27.596+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:27.596+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"error","time":"2025-01-29T19:59:27.636+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:27.636+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:27.636+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:27.636+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:27.636+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2025-01-29T19:59:27.661+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:27.661+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:27.661+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:27.661+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:27.661+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"info","time":"2025-01-29T19:59:27.936+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:27.936+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:28.017+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:28.017+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"error","time":"2025-01-29T19:59:28.187+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2025-01-29T19:59:28.187+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2025-01-29T19:59:28.187+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2025-01-29T19:59:28.188+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2025-01-29T19:59:28.188+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"info","time":"2025-01-29T19:59:28.266+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:28.266+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:28.805+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:28.805+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:28.867+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:28.867+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:28.881+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:28.881+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:28.978+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:28.978+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:29.044+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2025-01-29T19:59:29.044+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2025-01-29T19:59:38.029+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:38.030+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64885","tunnelID":"4175715"}
+{"level":"info","time":"2025-01-29T19:59:38.228+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:38.228+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :9090","tunnelID":"4175689"}
+{"level":"info","time":"2025-01-29T19:59:38.421+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:38.422+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64582","tunnelID":"4175691"}
+{"level":"info","time":"2025-01-29T19:59:38.500+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:38.501+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64588","tunnelID":"4175692"}
+{"level":"info","time":"2025-01-29T19:59:38.556+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:38.556+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64682","tunnelID":"4175696"}
+{"level":"info","time":"2025-01-29T19:59:38.582+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:38.582+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64751","tunnelID":"4175702"}
+{"level":"info","time":"2025-01-29T19:59:39.211+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:39.211+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64777","tunnelID":"4175704"}
+{"level":"info","time":"2025-01-29T19:59:39.296+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:39.296+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64575","tunnelID":"4175688"}
+{"level":"info","time":"2025-01-29T19:59:39.804+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:39.804+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64824","tunnelID":"4175709"}
+{"level":"error","time":"2025-01-29T19:59:39.855+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64872\": dial tcp 127.0.0.1:64872: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2025-01-29T19:59:40.011+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64553\": dial tcp 127.0.0.1:64553: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:40.174+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:40.175+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64818","tunnelID":"4175708"}
+{"level":"info","time":"2025-01-29T19:59:40.203+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:40.203+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64663","tunnelID":"4175694"}
+{"level":"error","time":"2025-01-29T19:59:40.263+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64550\": dial tcp 127.0.0.1:64550: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2025-01-29T19:59:40.295+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64551\": dial tcp 127.0.0.1:64551: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:40.311+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:40.311+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176327"}
+{"level":"error","time":"2025-01-29T19:59:40.339+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64737\": dial tcp 127.0.0.1:64737: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2025-01-29T19:59:40.360+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64653\": dial tcp 127.0.0.1:64653: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:40.731+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2025-01-29T19:59:40.731+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :64719","tunnelID":"4175698"}
+{"level":"info","time":"2025-01-29T19:59:40.801+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:40.801+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176328"}
+{"level":"error","time":"2025-01-29T19:59:40.992+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64755\": dial tcp 127.0.0.1:64755: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:41.286+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:41.286+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176329"}
+{"level":"error","time":"2025-01-29T19:59:41.629+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64799\": dial tcp 127.0.0.1:64799: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:41.667+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:41.667+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:41.667+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176332"}
+{"level":"info","time":"2025-01-29T19:59:41.667+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176330"}
+{"level":"info","time":"2025-01-29T19:59:41.761+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:41.761+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176331"}
+{"level":"error","time":"2025-01-29T19:59:41.801+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64552\": dial tcp 127.0.0.1:64552: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:41.823+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:41.823+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176333"}
+{"level":"error","time":"2025-01-29T19:59:41.940+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64801\": dial tcp 127.0.0.1:64801: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2025-01-29T19:59:41.984+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64649\": dial tcp 127.0.0.1:64649: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:42.329+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:42.329+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176334"}
+{"level":"error","time":"2025-01-29T19:59:42.508+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:64706\": dial tcp 127.0.0.1:64706: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2025-01-29T19:59:42.597+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:42.597+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176335"}
+{"level":"info","time":"2025-01-29T19:59:42.884+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:42.884+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176337"}
+{"level":"info","time":"2025-01-29T19:59:42.955+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:42.955+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176336"}
+{"level":"info","time":"2025-01-29T19:59:43.058+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2025-01-29T19:59:43.058+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 4176338"}
